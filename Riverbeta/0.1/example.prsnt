@@ -1,0 +1,19 @@
+Ver/prsnt: 0.1_riverbeta
+
+StorageStart/BasicallyAJSONObject
+  Txt/favgame: Deltarune
+  Num/pi: 3.14
+  NestStorageStart/hi: 1
+    =c=This is a comment!=ce=
+    List/there can be spaces in names too//
+      "Unfortunately I have to include quotes"/12345/\\
+  NestStorageEnd/names don't have to match for nests, just the id: 1
+StorageEnd/same for this, but there's no id
+
+=c=
+RiverbetaExplains
+
+This was the very first version of Present. It did not have boolean, and therefore no options.
+It did not have tabs, but they have been added for readability.
+It also requires caps.
+=ce=
