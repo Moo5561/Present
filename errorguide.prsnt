@@ -2,7 +2,7 @@ ver/prsnt: 1
 storagestart/Error Codes
   txt/err1: "Error Code 1: ver/prsnt is missing!"
   txt/err2: "Error Code 2: Incorrect boolean formatting!"
-  txt/err3: "Error Code 3: Incorrect syntax! (Expected Num/name: data)"
+  txt/err3: "Error Code 3: Incorrect syntax! (Expected type/name: data)"
   txt/err4: "Error Code 4: Unexpected type [type]!"
   txt/err5: "Error Code 5: Unexpected [text, boolean, number, list] in a [txt, boo, num] field!"
 storageend/Error Codes
