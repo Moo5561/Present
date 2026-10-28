@@ -97,11 +97,12 @@ Lists are started like this:
 `List/Example//`
 
 and ended with a `\\`. 
-
+<!-- also this is line 100! yippie! -->
 Lists use a way to differentiate between a string and a number. Strings are surrounded by `"` while numbers are plain.
 
 The seperator between data is `/`
-<!-- also this is line 100! yippie! -->
+
+(Also, lists are very difficult to use, I would recommend using Nested Storage instead.)
 
 # Rules for making parsers
 
