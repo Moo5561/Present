@@ -106,7 +106,7 @@ The seperator between data is `/`
 
 # Rules for making parsers
 
-Parsers are NOT converters:
+1. Parsers are NOT converters:
 
 A converter turns prsnt into JSON
 A parser reads prsnt and actually understands it.
@@ -116,3 +116,10 @@ Converters should be built into things that only understand JSON
 
 Know the difference!
 
+2. Error messages should be easy to read:
+
+I set up an Error Guide (written in Present) for people that want to make parsers and converters.
+
+3. Think like a user would:
+
+The average user would probably not want to mess around in the command line. You can still make a command line tool, but also make something graphical, like a website.
