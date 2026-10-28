@@ -4,7 +4,8 @@
 .prsnt (pronounced Present) is a file format made for storing things in a "database" of sorts. It removes all the annoying quote and comma drama of JSON. Instead of counting nested brackets, everything is tracked line-by-line with simple type prefixes and IDs so it's super easy for humans to read and write without breaking it.
 
 ## Example
-```Ver/prsnt: 1
+```
+Ver/prsnt: 1
 
 opt/prsnt
 	boo/tabs = true
