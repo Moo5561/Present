@@ -1,0 +1,18 @@
+opt/prsnt
+	boo/tabs = true
+	boo/requireCaps = false
+	boo/booleanNeedsEqual = true
+opt/end
+
+StorageStart/MyData
+	Txt/json: Sucks!
+	Num/pi: 3.14
+	Boo/PresentIsAwesome = true
+
+	NestStorageStart/ThisIsUseful: 1
+		List/CoolList//
+		"Gaming"/123/\\
+	NestStorageEnd/TrustMe: 1
+	
+	=c= This is a comment! =ce=
+StorageEnd/Go and try prsnt!
