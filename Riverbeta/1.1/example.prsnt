@@ -1,2 +1,29 @@
 Ver/prsnt 1.1_riverbeta
-uhh lemme just check some stuff
+
+opt/prsnt
+        boo/tabs = true
+        boo/requireCaps = false
+        boo/booleanNeedsEqual = true
+        boo/experimentalQuickTypes = true
+opt/end
+
+ss/MyData
+        Txt/json: Sucks!
+        Num/pi: 3.14
+        Boo/PresentIsAwesome = true
+
+        nss/ThisIsUseful: 1
+                DaT/PresentCreation: 2026-10-27
+                HEX/Blue: #0000FF
+        nse/TrustMe: 1
+
+        =c= This is a comment! =ce=
+se/Go and try prsnt!
+
+=c=
+Riverbeta Explains
+
+This is the first and probably only beta of version 2. You may have noticed that lists are gone from the example. They are still supported, but are retired. You probably also noticed that the storage type names are different. This is because of QuickTypes, a new feature. Basically, it lets you shorten types so typing everything out isn't a pain. Also, there's new DaT and HEX types. You probably know what HEX is, but DaT is a little more interesting. It isn't Date cut off but it stands for Date and Time. You can put in a date and/or time in iso format.
+
+Also, the new option is false by default.
+=ce=
