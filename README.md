@@ -34,7 +34,8 @@ Every part of a .prsnt is full of data. The data is formatted like this:
 
 Each type has a group.
 
-```Pure Group
+```
+Pure Group
 
 Txt
 Num
